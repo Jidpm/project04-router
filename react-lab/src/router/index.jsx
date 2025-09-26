@@ -17,7 +17,7 @@ export const router = createBrowserRouter([
   ]},
 ],
 {
-  basename:'project04-router/tree/main'
+  basename:'project04-router'
 }
 )
 
