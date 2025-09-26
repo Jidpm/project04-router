@@ -15,6 +15,10 @@ export const router = createBrowserRouter([
     {path: 'Products', element: <Products/>, loader: fetchProducts}
 
   ]},
-])
+],
+{
+  basename:'project04-router/tree/main'
+}
+)
 
 export default router

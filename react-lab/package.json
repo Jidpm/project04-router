@@ -10,8 +10,8 @@
     "preview": "vite preview",
     "postbuild": "cp dist/index.html dist/404.html",
     "deploy": "gh-pages -d dist"
-  },
 
+  },
   "dependencies": {
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
